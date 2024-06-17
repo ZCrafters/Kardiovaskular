@@ -30,7 +30,7 @@ def app(kentang):
 
     st.markdown("""
         <p style="font-size:24px">
-            <a href="https://raw.githubusercontent.com/DataMinati/Streamlit-Database/main/heart.csv" target=_blank style="text-decoration:none;">
+            <a href=https://www.kaggle.com/datasets/thedevastator/exploring-risk-factors-for-cardiovascular-diseas/data" target=_blank style="text-decoration:none;">
                 Get Dataset
             </a>
         </p>
