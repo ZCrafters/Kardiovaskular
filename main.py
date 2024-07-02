@@ -1,6 +1,6 @@
 import streamlit as st 
 from Tabs import about, home, data, predict, visualise
-from web_functions import load_data
+from Tabs.web_functions import load_data
 
 st.set_page_config(
     page_title='Kardiovaskular Disease Prediction',
