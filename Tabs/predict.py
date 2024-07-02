@@ -1,5 +1,6 @@
 import streamlit as st
 from web_functions import predict as predict_function  # Rename to avoid conflict
+from sklearn.neural_network import MLPClassifier
 
 def app(kentang, X, y):
     st.title("Prediction Page")
