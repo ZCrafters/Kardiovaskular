@@ -1,4 +1,5 @@
-import streamlit as st
+import streamlit as st 
+import matplotlib.pyplot as plt
 from Tabs import about, home, data, predict, visualise
 from web_functions import load_data
 
